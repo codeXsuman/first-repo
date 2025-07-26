@@ -3,4 +3,5 @@ this is my first repository.
 <br>
 Author- suman nandi(started learning)
 <br>
-![Alt text](path/to/git & github tutorial.excalidraw.png)
+# Git mindmap
+![GitHub Tutorial Image](git_github_tutorial.png)
